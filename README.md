@@ -33,6 +33,11 @@ Hello! I'm Krish Jani, a **Computer Programming and Analysis** graduate from **S
 
 ---
 
+## 🏅 Certifications
+- **In Progress**: **Google Cybersecurity Professional Certificate**, specializing in essential cybersecurity skills and best practices.
+
+---
+
 ## 📚 Learning Goals
 - 🔒 **Security+ Certification** preparation
 - 🧠 Deepen my knowledge in **ethical hacking** and **vulnerability assessment**
