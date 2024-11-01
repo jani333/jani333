@@ -41,9 +41,9 @@ Hello! I'm Krish Jani, a **Computer Programming and Analysis** graduate from **S
 ---
 
 ## 🤝 Let's Connect!
-- 🌐 [LinkedIn](#https://www.linkedin.com/in/krish1123/)
+- 🌐 [LinkedIn](https://www.linkedin.com/in/krish1123/)
 - 📫 [Email](mailto:youremail@example.com)
-- 🔗 [Portfolio](#https://jani333.github.io)
+- 🔗 [Portfolio](https://jani333.github.io)
 
 ---
 
