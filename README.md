@@ -1,59 +1,51 @@
-# 🌟 Welcome to My GitHub Profile! 🌟
 
-Hello! I'm Krish Jani, a **Computer Programming and Analysis** graduate from **Seneca College** with a passion for all things **IT Security**! I'm eager to delve into projects that blend programming, security analysis, and problem-solving.
 
 ---
 
-## 🖥️ About Me
-- 🎓 **Education**: Advanced Diploma in Computer Programming and Analysis from **Seneca College**.
-- 🌱 **Currently Exploring**: Entry-level IT Security roles and enhancing my cybersecurity skill set.
-- 💻 **Past Projects**:
-  - **EasyBlogging**: A collaborative blogging and journaling app developed as part of a team, boosting user engagement by 20%. Built with **Next.js**, **Node.js**, **Docker**, and **PostgreSQL**.
-    - [🔗 Check it out on GitHub](https://github.com/PRJ-2024-Team01/prj666)
-- 🛠️ **Tech Stack**: 
-  - **Programming Languages**: Python, JavaScript, Java, C++
-  - **Frameworks**: Node.js, Next.js, Express.js
-  - **Tools**: Docker, Git, PostgreSQL, Flask, RobotC, Vercel
+### 👋 Welcome to My GitHub Profile!
+
+Hello! I'm **Krish Jani**, a Computer Programming and Analysis graduate with a passion for cybersecurity and IT solutions. With a strong foundation in systems integration, technical troubleshooting, and security monitoring, I aim to leverage my skills to develop innovative, secure, and scalable software solutions.
 
 ---
 
-## 🔐 My Interests
-- 🛡️ **IT Security**: Exploring best practices, security protocols, and developing security-first applications.
-- ⚙️ **Project Development**: Crafting robust and scalable software solutions.
-- 🤖 **Automation & Robotics**: Designing autonomous solutions using multi-sensor systems and custom control software.
-- 🖥️ **Web Development**: Creating seamless, user-friendly, and responsive web experiences.
+### 📝 **Summary**
+**Security Specialist** with expertise in cybersecurity, threat detection, incident response, and risk management. Proficient in tools like IBM QRadar and Wireshark to secure networks and optimize operational performance. I am committed to ensuring data integrity and advancing IT security through detailed problem-solving and innovative solutions.
 
 ---
 
-## 📈 Professional Experience
-- **Project Developer** at **Seneca College** (Jan 2024 – Aug 2024)
-  - Co-developed apps and managed agile projects, meeting tight deadlines and refining development processes.
-- **Manager** at **Markham Fine Foods** (Mar 2022 – Present)
-  - Enhanced customer service, streamlined operations, and managed inventory efficiently.
+### 🏆 **Certifications**
+- **Google Cybersecurity Specialization** – Mastered principles of threat analysis, risk management, and network security (October 2024).
+- **Wireshark for Beginners** – Skilled in packet capturing and filtering (October 2024).
+- **IBM Generative AI for Cybersecurity Professionals** – Advanced skills in AI-driven threat detection and automated incident response (November 2024).
 
 ---
 
-## 🏅 Certifications
-- **In Progress**: **Google Cybersecurity Professional Certificate**, specializing in essential cybersecurity skills and best practices.
+### 💻 **Projects**
+1. **EasyBlogging App** *(Jan 2024 - Aug 2024)*  
+   - Developed a scalable blogging platform using **Next.js**, **Node.js**, **Docker**, and **PostgreSQL**.
+   - Boosted user engagement by 20% and system efficiency by 30%.  
+   - Collaborated within an agile team to ensure bi-weekly milestones were met, optimizing project success.
+
+2. **Personal Portfolio Website** *(May 2024)*  
+   - Designed and implemented a responsive website to showcase projects, skills, and professional journey.
+   - Focused on an intuitive layout and optimized user experience for accessibility.
 
 ---
 
-## 📚 Learning Goals
-- 🔒 **Security+ Certification** preparation
-- 🧠 Deepen my knowledge in **ethical hacking** and **vulnerability assessment**
-- 🚀 Expand my proficiency in **cloud security** and **network defense mechanisms**
+### ⚙️ **Skills**
+- **Programming Languages**: Python, JavaScript, Java, C++, SQL  
+- **Security Tools**: IBM QRadar, Wireshark, Metasploit, Microsoft Defender, Kali Linux  
+- **Development Tools**: Docker, Git, Visual Studio Code, PostgreSQL, MongoDB, MySQL  
+- **Cybersecurity Expertise**: Threat Detection, Incident Response, Vulnerability Assessment, Risk Management  
+- **Technical Skills**: Web Development, Data Structures, Algorithms, OOP, and Software Testing
 
 ---
 
-## 🤝 Let's Connect!
-- 🌐 [LinkedIn](https://www.linkedin.com/in/krish1123/)
-- 📫 [Email](mailto:youremail@example.com)
-- 🔗 [Portfolio](https://jani333.github.io)
+### 🤝 **Let’s Connect!**
+- **LinkedIn**: [Krish Jani](https://www.linkedin.com/in/krish1123/)  
+- **GitHub**: [Krish Jani](https://github.com/jani333)  
+- **Email**: krishj3508@gmail.com  
+
+Feel free to explore my repositories and projects. Let's collaborate to create impactful solutions!
 
 ---
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=“The%20only%20way%20to%20achieve%20the%20impossible%20is%20to%20believe%20it%20is%20possible.”&author=Charles%20Kingsleigh)
-
----
-
-🔧 *Always coding, learning, and securing the digital world. Thank you for stopping by!*
