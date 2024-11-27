@@ -1,15 +1,9 @@
 
 
 ---
-
 ### 👋 Welcome to My GitHub Profile!
 
-Hello! I'm **Krish Jani**, a Computer Programming and Analysis graduate with a passion for cybersecurity and IT solutions. With a strong foundation in systems integration, technical troubleshooting, and security monitoring, I aim to leverage my skills to develop innovative, secure, and scalable software solutions.
-
----
-
-### 📝 **Summary**
-**Security Specialist** with expertise in cybersecurity, threat detection, incident response, and risk management. Proficient in tools like IBM QRadar and Wireshark to secure networks and optimize operational performance. I am committed to ensuring data integrity and advancing IT security through detailed problem-solving and innovative solutions.
+I’m **Krish Jani**, a cybersecurity-focused developer with a passion for building secure, scalable software solutions. With expertise in programming, IT security, and problem-solving, I aim to create innovative and resilient systems that safeguard digital environments.
 
 ---
 
