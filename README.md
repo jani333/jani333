@@ -9,6 +9,7 @@ I am Security+ certified and continuously expanding my expertise in threat detec
 🏆 Certifications
 
 CompTIA Security+ – Expertise in cybersecurity fundamentals, risk management, and threat mitigation (Feb 2025)
+
 Google Cybersecurity Specialization – Hands-on training in threat analysis, incident response, and network security (Oct 2024)
 Wireshark for Beginners – Mastered packet capturing, filtering, and network traffic analysis (Oct 2024)
 IBM Generative AI for Cybersecurity Professionals – AI-driven threat detection and automated incident response (Nov 2024)
