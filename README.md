@@ -36,12 +36,12 @@ I am **Security+ certified** and continuously expanding my expertise in **threat
 
 ## 💻 Featured Projects
 
-### 🔹 **EasyBlogging App** *(Jan 2024 - Aug 2024)*
+### 🔹 **EasyBlogging App** **Jan 2024 - Aug 2024**
 - Developed a **scalable blogging platform** using **Next.js, Node.js, Docker, and PostgreSQL**.  
 - Enhanced **user engagement by 20%** and **system efficiency by 30%** through optimized architecture.  
 - Collaborated within an **agile team** to ensure consistent improvements and seamless updates.  
 
-### 🔹 **Personal Portfolio Website** *(May 2024)*
+### 🔹 **Personal Portfolio Website** **May 2024**
 - Built a **responsive portfolio website** to showcase projects, skills, and achievements.  
 - Focused on **user experience, accessibility, and intuitive navigation** across all devices.  
 
