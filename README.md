@@ -1,45 +1,40 @@
+👋 Welcome to My Cybersecurity Hub!
 
+Hi there! I’m Krish Jani, a Security Specialist with a passion for protecting digital environments, mitigating threats, and enhancing system integrity. With a strong foundation in cybersecurity, systems integration, and threat management, I specialize in SIEM solutions, penetration testing, and incident response to strengthen network defenses.
 
----
-### 👋 Welcome to My GitHub Profile!
+I am Security+ certified and continuously expanding my expertise in threat detection, risk management, and AI-driven security solutions. Whether it’s identifying vulnerabilities, optimizing security measures, or developing secure applications, I’m committed to proactive problem-solving and innovation in IT security.
 
-Hi there! I’m **Krish Jani**, a cybersecurity-focused developer with a strong foundation in IT security, programming, and problem-solving. I am passionate about creating secure, scalable, and reliable software solutions that safeguard digital environments and enhance user experiences. Whether it’s developing robust systems, tackling complex security challenges, or optimizing applications, I’m always driven by innovation and a commitment to excellence. Dive into my projects to explore my work and let’s collaborate to make impactful solutions!
+🚀 Let’s collaborate to build safer digital ecosystems!
 
----
+🏆 Certifications
 
-### 🏆 **Certifications**
-- **Google Cybersecurity Specialization** – Mastered principles of threat analysis, risk management, and network security (October 2024).
-- **Wireshark for Beginners** – Skilled in packet capturing and filtering (October 2024).
-- **IBM Generative AI for Cybersecurity Professionals** – Advanced skills in AI-driven threat detection and automated incident response (November 2024).
+CompTIA Security+ – Expertise in cybersecurity fundamentals, risk management, and threat mitigation (Feb 2025)
+Google Cybersecurity Specialization – Hands-on training in threat analysis, incident response, and network security (Oct 2024)
+Wireshark for Beginners – Mastered packet capturing, filtering, and network traffic analysis (Oct 2024)
+IBM Generative AI for Cybersecurity Professionals – AI-driven threat detection and automated incident response (Nov 2024)
+🔥 Technical Skills
 
----
+🛡️ Cybersecurity & Security Tools
+SIEM Solutions: Splunk
+Penetration Testing & Forensics: Kali Linux, Metasploit
+Network Security & Analysis: Wireshark, Microsoft Defender
+Threat Detection & Incident Response
+💻 Programming & Development
+Languages: Python, JavaScript, C++, Java, SQL
+Development Tools: Docker, Git, Visual Studio Code, Eclipse
+Databases: PostgreSQL, MongoDB, MySQL
+💻 Featured Projects
 
-### 💻 **Projects**
-1. **EasyBlogging App** *(Jan 2024 - Aug 2024)*  
-   - Developed a scalable blogging platform using **Next.js**, **Node.js**, **Docker**, and **PostgreSQL**.
-   - Boosted user engagement by 20% and system efficiency by 30%.  
-   - Collaborated within an agile team to ensure bi-weekly milestones were met, optimizing project success.
+🔹 EasyBlogging App (Jan 2024 - Aug 2024)
+Developed a scalable blogging platform using Next.js, Node.js, Docker, and PostgreSQL.
+Enhanced user engagement by 20% and system efficiency by 30% through optimized architecture.
+Collaborated within an agile team to ensure consistent improvements and seamless updates.
+🔹 Personal Portfolio Website (May 2024)
+Built a responsive portfolio website to showcase projects, skills, and achievements.
+Focused on user experience, accessibility, and intuitive navigation across all devices.
+📢 Let’s Connect!
 
-2. **Personal Portfolio Website** *(May 2024)*  
-   - Designed and implemented a responsive website to showcase projects, skills, and professional journey.
-   - Focused on an intuitive layout and optimized user experience for accessibility.
-
----
-
-### ⚙️ **Skills**
-- **Programming Languages**: Python, JavaScript, Java, C++, SQL  
-- **Security Tools**: IBM QRadar, Wireshark, Metasploit, Microsoft Defender, Kali Linux  
-- **Development Tools**: Docker, Git, Visual Studio Code, PostgreSQL, MongoDB, MySQL  
-- **Cybersecurity Expertise**: Threat Detection, Incident Response, Vulnerability Assessment, Risk Management  
-- **Technical Skills**: Web Development, Data Structures, Algorithms, OOP, and Software Testing
-
----
-
-### 🤝 **Let’s Connect!**
-- **LinkedIn**: [Krish Jani](https://www.linkedin.com/in/krish1123/)  
-- **GitHub**: [Krish Jani](https://github.com/jani333)  
-- **Email**: krishj3508@gmail.com  
-
-Feel free to explore my repositories and projects. Let's collaborate to create impactful solutions!
-
----
+🔗 LinkedIn: [Krish Jani]([https://yourlink.com](https://www.linkedin.com/in/krish1123/))
+💻 GitHub: [Krish Jani](https://github.com/jani333/)
+📧 Email: krishj3508@gmail.com
+🔐 Open to collaborations, cybersecurity discussions, and security-focused projects!
